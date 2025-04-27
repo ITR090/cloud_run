@@ -1,5 +1,5 @@
 
-Steps:
+Steps:<br />
 1- Clone repo by using git clone.<br />
 2- Make sure you have docker desktop and build the image with docker build.<br />
 3- Run the Container with docker run.<br />
